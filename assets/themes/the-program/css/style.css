@@ -619,6 +619,10 @@ pre {
 .entry-content p {
   text-align:justify;
 }
+.entry-content ul,
+.entry-content ol {
+  padding: 0px 10px 0px 30px !important;
+}
 .unit-article .entry-content h2,
 .unit-article .entry-content h3,
 .unit-article .entry-content h4,

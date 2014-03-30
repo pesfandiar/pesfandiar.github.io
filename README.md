@@ -1,1 +1,1 @@
-My Jekyll-powered personal blog hosted at http://blog.pesfandiar.com
+My Jekyll-powered personal site/blog hosted at http://www.pesfandiar.com
