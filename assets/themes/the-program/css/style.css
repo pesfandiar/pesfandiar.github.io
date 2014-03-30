@@ -615,7 +615,9 @@ pre {
 .unit-article header h1 {
   color: #2d2d2d;
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 0;}
+.entry-content p {
+  text-align:justify;
 }
 .unit-article .entry-content h2,
 .unit-article .entry-content h3,
