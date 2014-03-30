@@ -1484,3 +1484,6 @@ hr {
   *display: inline;
   float: right;
 }
+.date {
+  color: #888;
+}
