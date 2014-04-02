@@ -3,7 +3,7 @@ layout: post
 title: "Hello World"
 description: ""
 category: 
-tags: [personal, Jekyll, Github Pages]
+tags: [Personal, Jekyll, Github Pages]
 ---
 {% include JB/setup %}
 
