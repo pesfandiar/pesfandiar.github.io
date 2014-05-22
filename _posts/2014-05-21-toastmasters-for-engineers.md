@@ -3,7 +3,7 @@ layout: post
 title: "Toastmasters for Engineers"
 description: ""
 category: 
-tags: []
+tags: [Toastmasters, Soft Skills, Sandwich Technique, Public Speaking]
 ---
 {% include JB/setup %}
 
