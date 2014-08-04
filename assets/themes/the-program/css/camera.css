@@ -150,6 +150,9 @@
 	display: block;
 	position: absolute;
 	width: 100%;
+	opacity: 0.67;
+	font-weight: bolder;
+	font-size: small;
 }
 .camera_caption > div {
 	padding: 10px 20px;
