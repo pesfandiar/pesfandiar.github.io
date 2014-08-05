@@ -27,6 +27,7 @@ description: "Pooya Esfandiar's Blog"
     <span>&laquo; Prev</span>
   {% endif %}
 
+  <!-- No buggy pagination
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
       <em>{{ page }}</em>
@@ -36,6 +37,7 @@ description: "Pooya Esfandiar's Blog"
       <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
     {% endif %}
   {% endfor %}
+  -->
 
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
