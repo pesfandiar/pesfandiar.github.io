@@ -42,4 +42,4 @@ The integrity of systems is better protected if their boundaries are well define
 The best way to achieve encapsulation is to define modules, clearly define the boundaries, and separate the concerns of those modules. This is a very high-level recipe, and in practice, things can get sticky and impossible to separate. However, it should be obvious to software engineers, when deciding where to put anything, whether defining the boundaries will add any value or it's turning into another anally-retentive obsession with how to store your possessions in one of the 100 drawers in the bedroom.
 
 
-*(to be continued...)*
+*[For part 2 click here!](/blog/2015/06/28/keeping-it-simple-2)*
