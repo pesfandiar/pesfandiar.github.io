@@ -32,6 +32,7 @@ production_url : http://www.pesfandiar.com
 paginate: 5
 paginate_path: "blog/page:num"
 
+theme_name: the-program
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
@@ -61,7 +62,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   BASE_PATH : false
 
-  THEME_NAME: the-program
+  theme_name: the-program
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
