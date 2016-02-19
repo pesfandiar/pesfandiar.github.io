@@ -17,7 +17,7 @@ Luckily, there's a [website](http://insideairbnb.com/about.html) that continuous
 
 The Inside Airbnb data comes with the neighbourhood of each unit, but it doesn't exactly match the official neighbourhoods posted on the City website (e.g. Gastown is in Strathcona in one and in Downtown Eastside in the other). While the city has over 20 neighbourhoods officially, the CMHC rental report is broken down into 10 zones only. For the sake of visualization, I had to roughly map neighbourhoods to zones, but it shouldn't affect the results much.
 
-The following map shows Vancouver neighbourhoods with information about their rental situation (click on each to see). I calculated the estimated number of vacant units by multiplying the total number of rental units in each zone by the reported vacancy rate. The map is colour-coded by how high the number of Airbnb rentals are relative to the number of vacant units (darker red for a worse situation).
+The following map shows Vancouver neighbourhoods with information about their rental situation (click on each to see). I calculated the estimated number of vacant units by multiplying the total number of rental units in each zone by the reported vacancy rate. The map is colour-coded by how high the number of Airbnb listings are relative to the number of vacant units (darker red for a higher ratio of Airbnb listings over vacant rentals).
 
 <br />
 
