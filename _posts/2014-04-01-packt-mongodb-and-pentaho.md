@@ -2,12 +2,10 @@
 layout: post
 title: "Packt, MongoDB, and Pentaho"
 description: ""
-category: 
+category:
 tags: [Packt Publishing, MongoDB, Pentaho, Technical Review, ElasticSearch, Ebook]
 ---
 {% include JB/setup %}
-
-For the blog post about Airbnb in Vancouver, [please click here](http://www.pesfandiar.com/blog/2016/02/18/just-how-bad-is-airbnb-in-vancouver).
 
 Last year, when I received an email asking me to review a book about MongoDB and Pentaho for free, I barely opened the email before marking it as spam; "an outsourcing shop looking for desperate freelance editors? No, thanks!" I'd never heard of Packt Publishing before, and they were asking me to donate my time for a commercial project!
 
