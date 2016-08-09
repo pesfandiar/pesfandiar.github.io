@@ -1491,3 +1491,6 @@ hr {
 .date {
   color: #888;
 }
+
+.pagination a { margin: 3px }
+.pagination span { margin: 3px }
