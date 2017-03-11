@@ -5,9 +5,9 @@ tagline:
 ---
 {% include JB/setup %}
 
-I live and work in Vancouver, BC as a software development engineer.
+I am a father and a software engineer, living in beautiful Vancouver, BC.
 
-I have experience and interest in different areas including but not limited to data mining and machine learning, software development from low level C/C++ programming to front-end Javascript hacking, business intelligence, and data analysis.
+I have experience and interest in different areas including but not limited to data mining and machine learning, data analysis, and software development from low-level C/C++ programming to front-end hacking to cloud architecture.
 
 My hobbies include working out, hiking, and self studying different subjects such as finance, operations management, entrepreneurial business administration, etc.
 
