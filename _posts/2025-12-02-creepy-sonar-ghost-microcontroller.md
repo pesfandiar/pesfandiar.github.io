@@ -17,7 +17,7 @@ The rangefinder requires 5V and Ground that could be easily obtained from Pico's
 
 There isn't anything else to the circuit besides powering the board via USB.
 
-![The circuit on a breadboard](/assets/images/creepy_sonar/circuit.jpg)
+<img src="/assets/images/creepy_sonar/circuit.jpg" alt="The circuit on a breadboard" style="max-width:100%;">
 
 ## Source code
 
