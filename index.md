@@ -5,10 +5,10 @@ tagline:
 ---
 {% include JB/setup %}
 
-I am a father and a software engineering professional, living in beautiful Metro Vancouver.
+I am a father and a software engineering expert, living in beautiful Metro Vancouver.
 
-I have experience and interest in different areas including but not limited to data mining and machine learning, data analysis, and software development from low-level C/C++ programming to front-end hacking to cloud architecture.
+I have experience and interest in different areas including machine learning, analytics, technical leadership and software development from low-level C/C++ programming to full-stack web hacking to cloud architecture.
 
-My hobbies include working out, hiking, and self studying different subjects such as finance, operations management, entrepreneurial business administration, etc.
+My hobbies include working out, hiking, and self studying different subjects.
 
-If you live or work in the area and any of those subjects interests you, I'd like to meet you over a cup of coffee or during the lunch break.
+I occasionally write blog posts [here](/blog).
