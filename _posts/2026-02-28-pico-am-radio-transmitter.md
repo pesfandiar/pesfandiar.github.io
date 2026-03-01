@@ -22,4 +22,5 @@ With assistance from LLMs, I wrote [this code](https://github.com/pesfandiar/Pic
   Your browser does not support the video tag.
 </video>
 
+
 One of the pins is [programmed](https://github.com/pesfandiar/PicoProjects/blob/main/projects/pico_am_radio/squarewave.pio) to produce a constant 1000 KHz square wave using PIO. The main program then turns the PIO on and off at the intended frequency. e.g. to emit an A4 pitch (440 Hz), it turns the 1000 KHz square wave on and off 440 times a second. To the radio receiver, this means a 440 Hz square wave audio. Using this technique, it emits the well-known Shave and A Haircut melody on a loop.
