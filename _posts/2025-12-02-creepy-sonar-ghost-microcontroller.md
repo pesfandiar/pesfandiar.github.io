@@ -21,7 +21,7 @@ There isn't anything else to the circuit besides powering the board via USB.
 
 ## Source code
 
-Instead of using the standard C/C++ SDK, I opted for [Arduino-Pico v5.3.0](https://github.com/earlephilhower/arduino-pico). You can still program the board in C++ (Arduino styled), but it comes with a convenient Bluetooth driver and the IDE makes debugging via the serial port simpler. The entire [source code](/assets/main/code/creepy-sonar-ghost.ino) is inside a single file.
+Instead of using the standard C/C++ SDK, I opted for [Arduino-Pico v5.3.0](https://github.com/earlephilhower/arduino-pico). You can still program the board in C++ (Arduino styled), but it comes with a convenient Bluetooth driver and the IDE makes debugging via the serial port simpler. The [source code](https://github.com/pesfandiar/PicoProjects/tree/main/projects/creepy_halloween_sonar) contains all the logic in a single [Arduino file](https://github.com/pesfandiar/PicoProjects/blob/main/projects/creepy_halloween_sonar/creepy_halloween_sonar.ino).
 
 The setup defines the I/O pins and makes a connection to the Bluetooth speaker as an A2DPSource. For connection to the Bluetooth speaker, I specified my speaker's MAC address for reliability and simplicity. The main loop is in charge of driving the rangefinder and calculating and streaming the ghost sound, so to keep it tight and performant, I pre-calculate the sine function for 256 values (with linear interpolation between them) during the setup and store them in a look-up table.
 
